@@ -39,7 +39,7 @@ const LoginForm: FC = () => {
             </Form.Item>
             <Form.Item>
                 <Button type="primary" htmlType="submit" loading={isLoading}>
-                    Submit
+                    Log in
                 </Button>
             </Form.Item>
         </Form>
